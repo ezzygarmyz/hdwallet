@@ -98,6 +98,7 @@ from .foxdcoin import Foxdcoin
 from .fujicoin import FujiCoin
 from .gamecredits import GameCredits
 from .gcrcoin import GCRCoin
+from .gemlink import Gemlink
 from .gobyte import GoByte
 from .gridcoin import Gridcoin
 from .groestlcoin import GroestlCoin
@@ -315,6 +316,7 @@ class CRYPTOCURRENCIES:
         FujiCoin.NAME: FujiCoin,
         GameCredits.NAME: GameCredits,
         GCRCoin.NAME: GCRCoin,
+        Gemlink.NAME: Gemlink,
         GoByte.NAME: GoByte,
         Gridcoin.NAME: Gridcoin,
         GroestlCoin.NAME: GroestlCoin,

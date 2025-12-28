@@ -94,6 +94,7 @@ class CoinTypes:  # https://github.com/satoshilabs/slips/blob/master/slip-0044.m
     FujiCoin: int = 75
     GameCredits: int = 101
     GCRCoin: int = 49
+    Gemlink: int = 410
     GoByte: int = 176
     Gridcoin: int = 84
     GroestlCoin: int = 17
