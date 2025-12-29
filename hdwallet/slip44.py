@@ -216,6 +216,7 @@ class CoinTypes:  # https://github.com/satoshilabs/slips/blob/master/slip-0044.m
     Ycash: int = 347
     Zcash: int = 133
     ZClassic: int = 147
+    Zero: int = 323
     Zetacoin: int = 719
     Zilliqa: int = 313
     ZooBC: int = 883

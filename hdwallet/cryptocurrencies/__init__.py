@@ -220,6 +220,7 @@ from .xuez import XUEZ
 from .ycash import Ycash
 from .zcash import Zcash
 from .zclassic import ZClassic
+from .zero import Zero
 from .zetacoin import Zetacoin
 from .zilliqa import Zilliqa
 from .zoobc import ZooBC
@@ -438,6 +439,7 @@ class CRYPTOCURRENCIES:
         Ycash.NAME: Ycash,
         Zcash.NAME: Zcash,
         ZClassic.NAME: ZClassic,
+        Zero.NAME: Zero,
         Zetacoin.NAME: Zetacoin,
         Zilliqa.NAME: Zilliqa,
         ZooBC.NAME: ZooBC
